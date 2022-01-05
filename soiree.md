@@ -101,8 +101,6 @@ Figjam [workspace](https://www.figma.com/file/pNrxyy5NLqv3Ycw0XKrbf5/soiree-spec
 
 ## Describe how your proposal will work, with code, pseudo-code, mock-ups, or diagrams
 
-:computer: Repo: [jsealt/soiree](https://github.com/jsealt/soiree)
-
 Today we met to start our team working agreement. We left off at Mission. 
 
 ![68747470733a2f2f692e696d6775722e636f6d2f556c48364a48682e706e67](https://user-images.githubusercontent.com/32321/148150896-74646b03-2bf1-41df-8ac4-012fe08002e9.png)
@@ -138,6 +136,7 @@ Today we met to start our team working agreement. We left off at Mission.
 
 ## References <!-- optional and numbers of links can vary -->
 
+- [This repository.](https://github.com/jsealt/soiree)
 - [Icosa](https://github.com/icosa-gallery)
 - [VRM](https://vrm-viewer.yukimochi.io/)
 - [glTF](https://gltf-viewer.donmccurdy.com/)
