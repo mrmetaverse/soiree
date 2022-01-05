@@ -27,13 +27,13 @@ As a metaverse creator, I would benefit from our users being able to take invent
 Whom are the key stakeholders involved with adopting our proposal and implementing these inventory functions?
 
 1.  **End users:**
-    - the Active User: People who visit worlds regularly
-    - the Tourist: casual or new visitors to the ecosystem
-    - the First timer: First-time user experiencers (FTUX)
-2.  **the Creators:** The people who create worlds or characters on platforms.
-3.  **the Platform / Host:** The governing body, the physical laws of the selected universe. (Hubs, VRChat, Fortnite)
-4.  **the Tools:** any Tool that helps the creators get their job done.
-5.  **the Shopkeeper:** Anyone providing a service for the metaverse. (can be free or paid)
+    - The Active User: People who visit worlds regularly
+    - The Tourist: casual or new visitors to the ecosystem
+    - The First timer: First-time user experiencers (FTUX)
+2.  **The Creators:** The people who create worlds or characters on platforms.
+3.  **The Platform / Host:** The governing body, the physical laws of the selected universe. (Hubs, VRChat, Fortnite)
+4.  **The Tools:** any Tool that helps the creators get their job done.
+5.  **The Shopkeeper:** Anyone providing a service for the metaverse. (can be free or paid)
 
 #### What do we hope to accomplish?
 
@@ -85,21 +85,19 @@ We have options.
   - A.F.S:
   - GUEST +1s:
 
-- (out of band) public/private key exchange
+- (Out of band) public/private key exchange
 
-- soiree private dwelling availability
-- soiree host avaiability+ (?) _or on-site representative availability_
-- private dial-in address
-  - mechanism for extending an invitation
+- Soiree private dwelling availability
+- Soiree host avaiability+ (?) _or on-site representative availability_
+- Private dial-in address
+  - Mechanism for extending an invitation
   - RSVP?
-  - concierge
-  - front gate call box buzzer
-- front door access
-- "dress code" :snake:
+  - Concierge
+  - Front gate call box buzzer
+- Front door access
+- "Dress code" :snake:
 - "AFS" (Away From Soiree) "bathroom breaks."
 - "Can I come to your movie and bring a plus one?"
-
-Figjam [workspace](https://www.figma.com/file/pNrxyy5NLqv3Ycw0XKrbf5/soiree-spectrum?node-id=0%3A1)
 
 ## Describe how your proposal will work, with code, pseudo-code, mock-ups, or diagrams
 
@@ -107,7 +105,7 @@ Today we met to start our team working agreement. We left off at Mission.
 
 ![68747470733a2f2f692e696d6775722e636f6d2f556c48364a48682e706e67](https://user-images.githubusercontent.com/32321/148150896-74646b03-2bf1-41df-8ac4-012fe08002e9.png)
 ![68747470733a2f2f692e696d6775722e636f6d2f316179706834562e706e67](https://user-images.githubusercontent.com/32321/148150899-533681b7-0210-4aaf-a696-d387ade54d22.png)
-![](https://www.figma.com/file/pNrxyy5NLqv3Ycw0XKrbf5/soiree-spectrum?node-id=4%3A10)
+![Figjam workspace](https://www.figma.com/file/pNrxyy5NLqv3Ycw0XKrbf5/soiree-spectrum?node-id=4%3A10)
 
 ### Our next steps:
 
