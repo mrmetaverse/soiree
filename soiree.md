@@ -111,7 +111,7 @@ Today we met to start our team working agreement. We left off at Mission.
 
 ### Our next steps:
 
-- finish the team working agreement
+- Finish the team working agreement
 - LDJ (lightning decision jam)
 
 ## Positive Consequences <!-- optional -->
@@ -131,11 +131,11 @@ Today we met to start our team working agreement. We left off at Mission.
 
 ## If this enhancement will not be used often, can it be worked around with a few lines of script?
 
-[If this enhancement will not be used often, can it be worked around with a few lines of script?]
+Platforms are not trivial to code.
 
 ## Is there a reason why this should be core and done by us?
 
-[Is there a reason why this should be core and done by us?]
+We need to care about this more than everyone else.
 
 ## References <!-- optional and numbers of links can vary -->
 
