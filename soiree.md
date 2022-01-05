@@ -1,7 +1,7 @@
 # A soiree is a party or gathering, typically in a private house, for conversation or music.
 
 - Status: proposed <!-- draft | rejected | accepted | deprecated | superseded by -->
-- Deciders: MrMetaverse,HumbleTim,fire,
+- Deciders: MrMetaverse,humbletim,fire,
 - Tags: Soriee,
 
 ## Context and Problem Statement
