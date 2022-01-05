@@ -12,7 +12,7 @@
 
 - As a metaverse user, I want to access my shit so that I may use my shit when and where I want to use my shit (within reason).
 - As a metaverse user, I need to own my data so that I don't have to ask permission for my shit.
-  - _We don't want to have to ask permission to wear our shit when we go to a virtual picnic._
+  - We don't want to have to ask permission to wear our shit when we go to a virtual picnic.
 - As a metaverse creator, I want my shit to be helpful.
 - As a metaverse creator, I want to contribute my shit to the overall pile of shit.
 As a metaverse creator, I would benefit from our users being able to take inventory from our world with them into other worlds and bring inventory from other worlds into our world.
@@ -37,7 +37,7 @@ Whom are the key stakeholders involved with adopting our proposal and implementi
 
 #### What do we hope to accomplish?
 
-- _A baseline for managing and accessing personal inventory._
+- A baseline for managing and accessing personal inventory
 - Users own their data
 - Showcase the power of collaboration?
 - Create an ecosystem alternative. The anti-platform
@@ -65,7 +65,7 @@ We have options.
   - A.F.S: discord pause stream / mute
   - GUEST +1s: ??????
 - Folder of GLTFs + Windows 3D Paint + Discord Screenshare
-  - SOIRE PLANNING: gather shit into C:\LivingRoom
+  - SOIRE PLANNING: gather shit into `C:\LivingRoom`
   - DWELLING: ??????
   - HOST PRESENCE: discord reachability
   - INVITATION: discord private mesages
@@ -88,14 +88,14 @@ We have options.
 - (out of band) public/private key exchange
 
 - soiree private dwelling availability
-- soiree host avaiability+ (?) /_ or on-site representative availability _/
-- private dial-in address\*
-  - ~~mechanism for extending an invitation~~
+- soiree host avaiability+ (?) _or on-site representative availability_
+- private dial-in address
+  - mechanism for extending an invitation
   - RSVP?
   - concierge
   - front gate call box buzzer
 - front door access
-- "dress code"\*\*\*\* :snake:
+- "dress code" :snake:
 - "AFS" (Away From Soiree) "bathroom breaks."
 - "Can I come to your movie and bring a plus one?"
 
