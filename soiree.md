@@ -105,8 +105,8 @@ Figjam [workspace](https://www.figma.com/file/pNrxyy5NLqv3Ycw0XKrbf5/soiree-spec
 
 Today we met to start our team working agreement. We left off at Mission. 
 
-![](https://i.imgur.com/1ayph4V.png)
-![](https://i.imgur.com/UlH6JHh.png)
+![68747470733a2f2f692e696d6775722e636f6d2f556c48364a48682e706e67](https://user-images.githubusercontent.com/32321/148150896-74646b03-2bf1-41df-8ac4-012fe08002e9.png)
+![68747470733a2f2f692e696d6775722e636f6d2f316179706834562e706e67](https://user-images.githubusercontent.com/32321/148150899-533681b7-0210-4aaf-a696-d387ade54d22.png)
 ![](https://www.figma.com/file/pNrxyy5NLqv3Ycw0XKrbf5/soiree-spectrum?node-id=4%3A10)
 
 ### Our next steps: 
