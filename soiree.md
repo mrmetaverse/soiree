@@ -1,4 +1,4 @@
-# Throw a soriee party for ourselves
+# A soiree is a party or gathering, typically in a private house, for conversation or music.
 
 - Status: proposed <!-- draft | rejected | accepted | deprecated | superseded by -->
 - Deciders: MrMetaverse,HumbleTim,fire,
