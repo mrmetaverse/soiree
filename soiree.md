@@ -136,7 +136,7 @@ Today we met to start our team working agreement. We left off at Mission.
 
 ## References <!-- optional and numbers of links can vary -->
 
-- [This repository.](https://github.com/jsealt/soiree)
+- [mrmetaverse/soiree](https://github.com/jsealt/soiree)
 - [Icosa](https://github.com/icosa-gallery)
 - [VRM](https://vrm-viewer.yukimochi.io/)
 - [glTF](https://gltf-viewer.donmccurdy.com/)
