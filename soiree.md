@@ -148,5 +148,6 @@ We need to care about this more than everyone else.
 - https://agento3.github.io/a-frame-art-gallery/
 - https://www.npmjs.com/package/angellxr
 - https://github.com/skogard/nebulus - IPFS local
+- https://github.com/hsanjuan/ipfs-lite - IPFS WASM.
 - https://godotengine.org/
 - ![[OC][CC0] Food sprites.](https://user-images.githubusercontent.com/32321/148152483-beecd05c-2f1e-43c0-a1aa-603d58c0c17b.png) Source https://imgur.com/D7P5u3K
